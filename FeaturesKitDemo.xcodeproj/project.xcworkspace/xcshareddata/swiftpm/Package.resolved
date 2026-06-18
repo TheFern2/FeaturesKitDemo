@@ -1,0 +1,15 @@
+{
+  "originHash" : "2dd9ced06165255816d79636319bdb8ab4d45daa20137a2bcd6a5b933a2441f7",
+  "pins" : [
+    {
+      "identity" : "featureskit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/TheFern2/FeaturesKit",
+      "state" : {
+        "branch" : "main",
+        "revision" : "650cada7c2a24e90b0c89742146787b5285edfcd"
+      }
+    }
+  ],
+  "version" : 3
+}
