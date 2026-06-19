@@ -14,6 +14,6 @@ struct FeaturesKitDemoApp: App {
         WindowGroup {
             HomeView()
         }
-        .modelContainer(for: Board.self)
+        .modelContainer(for: [Board.self, ServerURL.self])
     }
 }

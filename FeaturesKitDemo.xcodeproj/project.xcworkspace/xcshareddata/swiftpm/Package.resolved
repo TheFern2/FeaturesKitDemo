@@ -6,8 +6,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/TheFern2/FeaturesKit",
       "state" : {
-        "branch" : "main",
-        "revision" : "650cada7c2a24e90b0c89742146787b5285edfcd"
+        "revision" : "aa5c24646552feefa25ced9efd058c0728215223",
+        "version" : "0.1.0"
       }
     }
   ],
